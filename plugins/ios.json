@@ -8,44 +8,44 @@
     },
     "installed_plugins": {
         "cordova-plugin-whitelist": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "phonegap-plugin-push": {
             "SENDER_ID": "xxxxx",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-device": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-custom-config": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-dialogs": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-inappbrowser": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-network-information": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-statusbar": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-contacts": {
             "CONTACTS_USAGE_DESCRIPTION": " ",
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "cordova-plugin-x-socialsharing": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         }
     },
     "dependent_plugins": {
         "cordova-plugin-compat": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         },
         "es6-promise-plugin": {
-            "PACKAGE_NAME": "com.designbest.mobilmania"
+            "PACKAGE_NAME": "com.designbest.fogliariniarredamenti"
         }
     }
 }
